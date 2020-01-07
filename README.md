@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/simonjoshi/Demo/_apis/build/status/simonjgamer.pipeline?branchName=master)](https://dev.azure.com/simonjoshi/Demo/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
